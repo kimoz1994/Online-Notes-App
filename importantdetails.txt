@@ -1,0 +1,3 @@
+user name: kimothec_admin
+database name : kimothec_mynotes
+password:kJ7?BRWa#JGB
